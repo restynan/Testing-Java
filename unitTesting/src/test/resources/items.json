@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1001,
+        "name": "pen",
+        "quantity": 7,
+        "price": 300,
+        "value": 2100
+    },
+    {
+        "id": 1002,
+        "name": "book",
+        "quantity": 12,
+        "price": 1600,
+        "value": 19200
+    },
+    {
+        "id": 1003,
+        "name": "dress",
+        "quantity": 30,
+        "price": 800,
+        "value": 24000
+    },
+    {
+        "id": 1004,
+        "name": "shoe",
+        "quantity": 5,
+        "price": 346,
+        "value": 1730
+    }
+]
